@@ -4,3 +4,7 @@ This is Blogging web app, created by using Flask. Users able to read the blogs, 
 
 
 
+
+
+https://github.com/Bibhash7/Bloggy/assets/59429659/aaaa8387-2554-4084-ab8c-6b9ec13feb98
+
