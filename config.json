@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri": "mysql://root:@localhost/bloggydb",
+        "prod_uri":"mysql://root:@localhost/bloggydb",
+        "fb_url":"https://www.facebook.com/bibhash.ghosh.351",
+        "gh_url": "https://github.com/Bibhash7",
+        "blog_name": "Bloggy",
+        "tag_line": "Simple, Minimal, Hassle free",
+        "gmail-user":"bibhash@gmail.com",
+        "gmail-password":"xxxxxxxxxxxx",
+        "no_of_posts": 3,
+        "login_image":"login.svg",
+        "admin_user":"bluffy",
+        "admin_password": "123",
+        "upload_location":"C:\\Users\\bibha\\PycharmProjects\\pythonProject1\\static\\img"
+    }
+}
