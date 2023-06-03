@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+{% block body %}
+    <!-- Page Header -->
+    <header class="masthead" style="background-image: url('{{ url_for('static', filename='img/luffy.jpg') }}')">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="page-heading">
+              <h1>About Me</h1>
+              <span class="subheading">Bibhash Ghosh</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <p>Hi, I am Bibhash Ghosh, I worked as a SDE-1 at Amazon, and as an Assistant System Enginner at TCS. I have completed my MCA ( Master of Computer Applications ) from Jadavpur University, West Bengal, India.
+</p>
+        <p>My region of interest: Big Data, ETL, SQL, DWH, ML/DL and Computer Vision.</p>
+        <p>Apart from that, I always love do Competitive Programming from my academics, and still exploring. Logic building and optimising a code/query excites me more than anything.</p>
+        <p>And also I am a weeb, and I love to explore places and make new friends.</p>
+        <p>That's all about me in a nutshell, what about you?</p>
+        </div>
+      </div>
+    </div>
+
+   {% endblock %}
